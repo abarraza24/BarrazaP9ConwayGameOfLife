@@ -1,0 +1,1 @@
+The Game of Life is a cellular automaton simulation where cells on a grid evolve based on specific rules. Each cell can be alive ('*') or dead ('.'). The simulation progresses in generations, with the state of each cell in the next generation determined by its current state and the state of its neighboring cells
